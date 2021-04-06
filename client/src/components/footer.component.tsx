@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
     <StyledFooter>
       <p>Created By Andre Potgieter</p>
       <nav>
-        <a href="https://www.apollographql.com/docs/apollo-server/v1/">Github </a>
+        <a href="https://github.com/RiverPimp/CitizensATS">Github </a>
 
       </nav>
     </StyledFooter>
